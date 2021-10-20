@@ -1,4 +1,5 @@
-JOIN задачи (HW 2)
+                                                                                JOIN задачи (HW 2)
+                                                                                
 1. Вывести всех работников чьи зарплаты есть в базе, вместе с зарплатами. 
 select * from employees 
 join employees_salary on employees.id= employees_salary.employee_id  

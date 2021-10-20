@@ -1,4 +1,4 @@
-SQL задачи (HW 1)
+##SQL задачи (HW 1)
 1. Вывести все поля и все строки. select * from qa_users
 2. Вывести всех студентов в таблице select username from qa_users
 3. Вывести только Id пользователей select user_id from qa_users

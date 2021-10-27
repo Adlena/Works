@@ -13,7 +13,7 @@
  ![image](https://user-images.githubusercontent.com/35850399/139121919-a64e1a2a-27aa-4a01-bdaf-53d62437b0fd.png)
 
 4.	Вывести в консоль логи приложения todolist
- ![image](https://user-images.githubusercontent.com/35850399/139121941-25e7165b-8d41-485b-8353-bd0ea1098bc6.png)
+     ![image](https://user-images.githubusercontent.com/35850399/139121941-25e7165b-8d41-485b-8353-bd0ea1098bc6.png)
 
 5.	Скопировать логи приложения todolist на компьютер.
 
@@ -26,4 +26,4 @@
 
 
 7. Удалить приложение todolist с телефона через ADB52501:18
-![image](https://user-images.githubusercontent.com/35850399/139122130-52f4bcb8-3dc1-4b54-a48c-6637f9767212.png)
+      ![image](https://user-images.githubusercontent.com/35850399/139122130-52f4bcb8-3dc1-4b54-a48c-6637f9767212.png)
